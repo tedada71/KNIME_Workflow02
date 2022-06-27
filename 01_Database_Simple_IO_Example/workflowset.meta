@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?><KNIMEMetaInfo xmlns="http://www.knime.org/2.9/metainfo"><nrOfElements xmlns="">5</nrOfElements><element xmlns="" form="text" name="Author">&lt;unknown></element><element xmlns="" form="date" name="Creation Date">1/0/1970/12:0:1 +02:00</element><element xmlns="" form="multiline" name="Comments">Database - Simple IO
+
+This workflow demonstrates using DB Query Reader and DB Writer nodes in a simple KNIME worflow.
+
+ It uses the file-based "sqlite" database (the entire database is written to a file on the hard disk).
+
+
+
+
+URL: KNIME Database Documentation https://docs.knime.com/latest/db_extension_guide/index.html
+TAGS: database,io,sqlite</element><element xmlns="" form="text" name="Last Uploaded" read-only="true">2020-01-09 14:34:09 +0100</element><element xmlns="" form="text " name="Last Edited" read-only="true">2020-01-09 14:21:13 +0100</element></KNIMEMetaInfo>
